@@ -1,0 +1,1 @@
+Convert multiple image to grayscale
